@@ -7,7 +7,7 @@ body, html{
     justify-content: center;
     align-items: center;
 
-    background: url("images.jpeg") no-repeat center center fixed;
+    background: url("images.avif") no-repeat center center fixed;
     background-size: cover;
 }
 
